@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FeasyHome" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+       <!-- Theme.Material3.DayNight.NoActionBar-->
+        <!--  <item name="android:statusBarColor">@color/statusbar_bg</item>-->
+
+
+    </style>
+
+    <style name="Theme.FeasyHome" parent="Base.Theme.FeasyHome" />
+
+    <style name="TabLayoutTextUnSelected">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+
+    <style name="FscProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+
+        <item name="minHeight">10dp</item>
+        <item name="maxHeight">10dp</item>
+
+    </style>
+
+    <style name="PopupAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+
+
+
+
+
+
+</resources>

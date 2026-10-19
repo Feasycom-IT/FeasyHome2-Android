@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/line_btn"
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/shap_white_ss6dp"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:background="@mipmap/panel_btn_icon_unbind_inactive" />
+
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="1号键"
+        android:textColor="@color/txt_none"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

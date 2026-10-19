@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">FeasyHome</string>
+
+    <string name="aboutus">关于我们</string>
+
+    <string name="devices">设备</string>
+    <string name="scene">场景</string>
+    <string name="mine">我的</string>
+    <string name="scenarioselection">选择场景</string>
+    <string name="addscenario">添加场景</string>
+    <string name="configurelighting">配置照明</string>
+    <string name="brightness">亮度</string>
+    <string name="colortemperature">色温</string>
+    <string name="saveconfiguration">保存配置</string>
+    <string name="createafamily">创建家庭</string>
+    <string name="cancler">取消</string>
+    <string name="save">保存</string>
+    <string name="createaroom">创建房间</string>
+    <string name="create">创建</string>
+    <string name="delete">删除</string>
+    <string name="notconnected">未连接</string>
+    <string name="bluetoothisnotturnedon">蓝牙未打开</string>
+    <string name="open">打开</string>
+    <string name="editscene">编辑场景</string>
+    <string name="scenename">场景名称</string>
+    <string name="scenariobackground">场景背景</string>
+    <string name="addedgroup">已添加组 (0)</string>
+    <string name="addnewgroup">添加新组</string>
+    <string name="roommanagement">房间管理</string>
+    <string name="room">房间</string>
+    <string name="membermanagement">成员管理</string>
+    <string name="member">成员</string>
+    <string name="dissolvetheentirenetwork">解散全网</string>
+    <string name="deletefamily">删除家庭</string>
+    <string name="familynaming">家庭命名</string>
+    <string name="familylist">家庭列表</string>
+    <string name="newfamily">创建家庭</string>
+    <string name="fullyopen">全开</string>
+    <string name="closeall">全关</string>
+    <string name="refresh">刷新</string>
+    <string name="choosebinding">选择绑定</string>
+
+    <string name="lightinggroup">灯光组</string>
+    <string name="curtaingroup">窗帘组</string>
+
+    <string name="bindcolortemperature">绑定色温</string>
+    <string name="bind">绑定</string>
+    <string name="unbind">解绑</string>
+    <string name="helpcenter">帮助中心</string>
+
+    <string name="noequipmentavailable">暂无设备</string>
+    <string name="jointhefamily">加入家庭</string>
+    <string name="pleaseenteryourphonenumber">请输入手机号码</string>
+    <string name="pleaseentertheverificationcode">请输入验证码</string>
+
+    <string name="login">登录</string>
+    <string name="loginrepresentsyouragreement">登录代表您同意</string>
+    <string name="useragreement">《用户协议》</string>
+    <string name="privacyagreement">《隐私协议》</string>
+    <string name="useragreement2">用户协议</string>
+    <string name="privacyagreement2">隐私协议</string>
+    <string name="administrator">管理员</string>
+    <string name="invitemembers">邀请成员</string>
+    <string name="familymanagement">家庭管理</string>
+
+    <string name="scan">扫一扫</string>
+    <string name="feedbackandsuggestions">建议反馈</string>
+    <string name="add">添加</string>
+    <string name="selectdevicegroup">选择设备组</string>
+    <string name="done">完成</string>
+
+    <string name="createagroup">创建分组</string>
+    <string name="deletescene">删除场景</string>
+
+    <string name="managethefamily">管理家庭</string>
+    <string name="searchdevice">搜索设备</string>
+    <string name="selectgroup">选择分组</string>
+    <string name="createagroup2">+ 创组</string>
+    <string name="search">搜索</string>
+    <string name="networkaccess">入网</string>
+    <string name="adddevice">添加设备</string>
+    <string name="selectdevicetype">选择设备类型</string>
+    <string name="wirelesscommunicationtestswitch">无线通讯测试开关</string>
+    <string name="nextstep">下一步</string>
+    <string name="administrativepermissions">管理权限</string>
+    <string name="sharingpermissions">分享权限</string>
+    <string name="scanthecodeusingthefeasymHomeapp">使用 FeasyHome App 扫码</string>
+    <string name="feedback">意见反馈</string>
+
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+
+    <string name="submit">提交</string>
+    <string name="determine">确定</string>
+    <string name="accountinformation">账号信息</string>
+
+    <string name="mobilephonenumber">手机号码</string>
+    <string name="usernickname">用户昵称</string>
+    <string name="deleteaccount">注销账号</string>
+    <string name="logout">退出登录</string>
+    <string name="sendverificationcode">发送验证码</string>
+
+    <string name="qrcode">二维码</string>
+    <string name="requesting">正在加载...</string>
+
+
+    <string name="tips1">关于FeasyHome《隐私协议》</string>
+    <string name="refuse">拒绝</string>
+    <string name="agree">同意</string>
+    <string name="tips2">手机号不能为空！</string>
+    <string name="tips3">验证码不能为空！</string>
+    <string name="tips4">请先阅读“《隐私协议》和《用户协议》”，并同意。</string>
+    <string name="tips5">手机号格式错误！</string>
+    <string name="vcode">验证码</string>
+    <string name="sent">已发送</string>
+
+
+    <string name="tips6">连接蓝牙设备需要打开定位</string>
+    <string name="tips7">连接蓝牙设备需要位置权限</string>
+    <string name="tips8">权限不够!</string>
+    <string name="tips9">请先创建家庭</string>
+    <string name="tips10">请先添加房间</string>
+    <string name="tips11">请稍后尝试</string>
+    <string name="tips12">需要“位置和蓝牙”权限，去设置一下吧!</string>
+    <string name="set">设置</string>
+    <string name="connected">已连接</string>
+    <string name="connecting">连接网络中</string>
+    <string name="setting">正在设置</string>
+    <string name="deleting">正在删除</string>
+    <string name="tips13">去首页选中已创建的家庭</string>
+    <string name="tips14">扫一扫功能需要“相机”权限!</string>
+    <string name="tips15">需要“相机”权限，去设置一下吧!</string>
+    <string name="tips16">正在同步数据</string>
+    <string name="tips17">手机号长度不能低于5位</string>
+    <string name="tips18">请输入家庭名称</string>
+    <string name="tips19">家庭名称太短</string>
+    <string name="tips20">家庭名称太长</string>
+    <string name="tips21">家庭名称已存在</string>
+    <string name="tips22">家庭名称不能为空</string>
+    <string name="tips23">是否删除家庭</string>
+    <string name="tips24">修改名称</string>
+    <string name="tips25">确定解散全网！</string>
+    <string name="tips26">请输入密码</string>
+    <string name="tips27">请输入正确的密码</string>
+    <string name="tips28">请先到首页切换连接到该网络</string>
+    <string name="tips29">请输入房间名称</string>
+    <string name="tips30">修改房间名称</string>
+    <string name="tips31">房间名称太短</string>
+    <string name="tips32">是否删除</string>
+    <string name="tips33">请输入新的昵称</string>
+    <string name="tips34">修改昵称</string>
+    <string name="tips35">新的昵称太短</string>
+    <string name="tips36">更换头像需要“存储”权限</string>
+    <string name="tips37">确定注销账户</string>
+    <string name="tips38">是否修改头像</string>
+    <string name="tips39">退出登录成功</string>
+
+
+    <string name="devicenotfound">未找到设备</string>
+    <string name="searching">正在搜索</string>
+    <string name="pleaseselectagroup">请选择分组</string>
+    <string name="pleasesearchforthedevicefirst">请先搜索设备</string>
+    <string name="enteringthenetwork">正在入网,请耐心等待</string>
+    <string name="thedeviceisbusy">设备繁忙，请重试！</string>
+    <string name="successfullynetwork">入网成功！</string>
+    <string name="creating">正在创建</string>
+    <string name="networkabnormality">网络异常！</string>
+
+</resources>

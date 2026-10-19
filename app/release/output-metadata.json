@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.feasycom.feasyhome",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 115,
+      "versionName": "2.3.6.1",
+      "outputFile": "FeasyHome2.3.6.1_2026-10-14.apk"
+    }
+  ],
+  "elementType": "File",
+  "baselineProfiles": [
+    {
+      "minApi": 28,
+      "maxApi": 30,
+      "baselineProfiles": [
+        "baselineProfiles/1/FeasyHome2.3.6.1_2026-10-14.dm"
+      ]
+    },
+    {
+      "minApi": 31,
+      "maxApi": 2147483647,
+      "baselineProfiles": [
+        "baselineProfiles/0/FeasyHome2.3.6.1_2026-10-14.dm"
+      ]
+    }
+  ],
+  "minSdkVersionForDexing": 29
+}

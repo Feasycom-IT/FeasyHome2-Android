@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shap_white_ss5dp">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_family"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <View
+        android:id="@+id/view_p"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@+id/recycler_family"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#DDDDDD" />
+
+
+    <LinearLayout
+        android:id="@+id/line_family_manage"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/view_p"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@mipmap/family_icon_manage" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/managethefamily"
+            android:textColor="@color/black"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

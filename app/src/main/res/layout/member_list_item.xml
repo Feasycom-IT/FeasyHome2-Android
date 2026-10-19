@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="15dp"
+    android:background="@drawable/shap_white_ss5dp">
+
+
+    <ImageView
+        android:id="@+id/img_head"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@mipmap/tabbar_icon_mine_active"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/img_head"
+        android:textColor="@color/black"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/txt_manage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:text="@string/administrator"
+        android:layout_toRightOf="@+id/txt_name"
+        android:textColor="#0075C9"
+        android:textSize="17sp" />
+
+
+    <ImageView
+        android:id="@+id/img_del"
+        android:layout_width="16dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@mipmap/family_icon_delmember" />
+
+</RelativeLayout>

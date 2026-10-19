@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">FeasyHome</string>
+
+
+    <string name="aboutus">About</string>
+
+    <string name="devices">Devices</string>
+    <string name="scene">Scene</string>
+    <string name="mine">Me</string>
+    <string name="scenarioselection">Select Scene</string>
+    <string name="addscenario">Add Scene</string>
+    <string name="configurelighting">Config Lighting</string>
+    <string name="brightness">Brightness</string>
+    <string name="colortemperature">Color Temp</string>
+    <string name="saveconfiguration">Save Config</string>
+    <string name="createafamily">Create Family</string>
+    <string name="cancler">Cancel</string>
+    <string name="save">Save</string>
+    <string name="createaroom">Create Room</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="notconnected">Not Connected</string>
+    <string name="bluetoothisnotturnedon">Bluetooth Off</string>
+    <string name="open">Open</string>
+    <string name="editscene">Edit Scene</string>
+    <string name="scenename">Scene Name</string>
+    <string name="scenariobackground">Scene BG</string>
+    <string name="addedgroup">Added Group (0)</string>
+    <string name="addnewgroup">Add New Group</string>
+    <string name="roommanagement">Room Mgmt</string>
+    <string name="room">Room</string>
+    <string name="membermanagement">Member Mgmt</string>
+    <string name="member">Member</string>
+    <string name="dissolvetheentirenetwork">Dissolve Network</string>
+    <string name="deletefamily">Delete Family</string>
+    <string name="familynaming">Family Name</string>
+    <string name="familylist">Family List</string>
+    <string name="newfamily">Create a family</string>
+    <string name="fullyopen">All On</string>
+    <string name="closeall">All Off</string>
+    <string name="refresh">Refresh</string>
+    <string name="choosebinding">Select Binding</string>
+
+    <string name="lightinggroup">Light Group</string>
+    <string name="curtaingroup">Curtain Group</string>
+
+    <string name="bindcolortemperature">Bind Color Temp</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="helpcenter">Help Center</string>
+
+    <string name="noequipmentavailable">No Devices</string>
+    <string name="jointhefamily">Join Family</string>
+    <string name="pleaseenteryourphonenumber">Enter Phone No.</string>
+    <string name="pleaseentertheverificationcode">Enter VCode</string>
+
+    <string name="login">Login</string>
+    <string name="loginrepresentsyouragreement">Agree to</string>
+    <string name="useragreement">《User Agreement》</string>
+    <string name="privacyagreement">《Privacy Policy》</string>
+    <string name="useragreement2">User Agreement</string>
+    <string name="privacyagreement2">Privacy Policy</string>
+    <string name="administrator">Admin</string>
+    <string name="invitemembers">Invite Members</string>
+    <string name="familymanagement">Family Mgmt</string>
+
+    <string name="scan">Scan</string>
+    <string name="feedbackandsuggestions">Feedback</string>
+    <string name="add">Add</string>
+    <string name="selectdevicegroup">Select Device Group</string>
+    <string name="done">Done</string>
+
+    <string name="createagroup">Create Group</string>
+    <string name="deletescene">Delete Scene</string>
+
+    <string name="managethefamily">Manage Family</string>
+    <string name="searchdevice">Search Device</string>
+    <string name="selectgroup">Select Group</string>
+    <string name="createagroup2">+ Create Group</string>
+    <string name="search">Search</string>
+    <string name="networkaccess">Network Access</string>
+    <string name="adddevice">Add Device</string>
+    <string name="selectdevicetype">Select Device Type</string>
+    <string name="wirelesscommunicationtestswitch">Wireless Comm Test Switch</string>
+    <string name="nextstep">Next</string>
+    <string name="administrativepermissions">Admin Permission</string>
+    <string name="sharingpermissions">Share Permission</string>
+    <string name="scanthecodeusingthefeasymHomeapp">Scan with FeasyHome App</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+    <string name="submit">Submit</string>
+    <string name="determine">Confirm</string>
+    <string name="accountinformation">Account Info</string>
+
+    <string name="mobilephonenumber">Phone No.</string>
+    <string name="usernickname">Nickname</string>
+    <string name="deleteaccount">Delete Account</string>
+    <string name="logout">Logout</string>
+
+    <string name="sendverificationcode">Send VCode</string>
+
+
+    <string name="qrcode">QR code</string>
+    <string name="requesting">Loading...</string>
+
+
+    <string name="tips1">About FeasyHome《Privacy Policy》</string>
+    <string name="refuse">Refuse</string>
+    <string name="agree">Agree</string>
+    <string name="tips2">Phone No. cannot be empty!</string>
+    <string name="tips3">VCode cannot be empty!</string>
+    <string name="tips4">Please read and agree to "Privacy Policy" and "User Agreement".</string>
+    <string name="tips5">Invalid phone number format!</string>
+    <string name="vcode">VCode</string>
+    <string name="sent">Sent</string>
+
+
+    <string name="tips6">Location must be enabled to connect Bluetooth devices</string>
+    <string name="tips7">Location permission is required to connect Bluetooth devices</string>
+    <string name="tips8">Insufficient permissions!</string>
+    <string name="tips9">Please create a home first</string>
+    <string name="tips10">Please add a room first</string>
+    <string name="tips11">Please try again later</string>
+    <string name="tips12">Location and Bluetooth permissions are required, please go to settings</string>
+    <string name="set">Settings</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting</string>
+    <string name="setting">Setting up</string>
+    <string name="deleting">Deleting</string>
+    <string name="tips13">Go to the homepage and select the created home</string>
+    <string name="tips14">Camera permission is required for the scan function!</string>
+    <string name="tips15">Camera permission is required, please go to settings</string>
+    <string name="tips16">Syncing data</string>
+    <string name="tips17">The mobile phone number must be at least 5 digits long</string>
+    <string name="tips18">Please enter the family name</string>
+    <string name="tips19">The family name is too short</string>
+    <string name="tips20">The family name is too long</string>
+    <string name="tips21">Family name already exists</string>
+    <string name="tips22">Family name cannot be empty</string>
+    <string name="tips23">Delete the family</string>
+    <string name="tips24">Modify Name</string>
+    <string name="tips25">Confirm to disband the network!</string>
+    <string name="tips26">Please enter the password</string>
+    <string name="tips27">Please enter the correct password</string>
+    <string name="tips28">Please switch to the homepage and connect to this network first</string>
+    <string name="tips29">Please enter the room name</string>
+    <string name="tips30">Change room name</string>
+    <string name="tips31">The room name is too short</string>
+    <string name="tips32">Delete?</string>
+    <string name="tips33">Please enter a new nickname</string>
+    <string name="tips34">Edit Nickname</string>
+    <string name="tips35">The new nickname is too short</string>
+    <string name="tips36">Changing avatars requires storage permission</string>
+    <string name="tips37">Confirm account cancellation</string>
+    <string name="tips38">Do you want to modify the avatar</string>
+    <string name="tips39">Login successfully logged out</string>
+
+
+
+
+
+
+
+
+    <string name="devicenotfound">Device not found</string>
+    <string name="searching">Searching</string>
+    <string name="pleaseselectagroup">Please select a group</string>
+    <string name="pleasesearchforthedevicefirst">Please search for devices first</string>
+    <string name="enteringthenetwork">Joining network, please wait</string>
+    <string name="thedeviceisbusy">Device is busy, please try again!</string>
+    <string name="successfullynetwork">Network joined successfully!</string>
+    <string name="creating">Creating</string>
+    <string name="networkabnormality">Network error!</string>
+
+
+</resources>
