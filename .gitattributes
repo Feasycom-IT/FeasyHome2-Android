@@ -1,0 +1,21 @@
+# 统一换行处理：文本用 LF，二进制原样存储
+* text=auto
+
+# 二进制（不要做换行转换，否则会损坏）
+*.aar   binary
+*.apk   binary
+*.aab   binary
+*.jar   binary
+*.so    binary
+*.dll   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.gif   binary
+*.mp3   binary
+*.ogg   binary
+*.pdf   binary
+*.ttf   binary
+*.jks   binary
+*.keystore binary
