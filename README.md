@@ -25,6 +25,15 @@ FeasyHome2 是 **FeasyHome 蓝牙 Mesh 智能家居 App** 的工程：
 
 ---
 
+## 下载安装包 / Download APK
+
+| 版本 | 文件 | 大小 | SHA-256 |
+|---|---|---|---|
+| v2.3.6.1 | [apk/FeasyHome2-v2.3.6.1.apk](apk/FeasyHome2-v2.3.6.1.apk) | 20.08 MB | `8DF4A871B170B3F9E1F46318FD7EE5AA9B7C9DC22315F8788F5E2BFC7EB38189` |
+
+- 由**官方签名证书**签名（非调试包），可直接安装 / 覆盖升级；
+- 适用系统：**Android 10 及以上**（minSdk 29）；
+- 与仓库源码版本 **2.3.6.1** 一致。
 ## 快速开始 / Quick start
 
 ```bash
